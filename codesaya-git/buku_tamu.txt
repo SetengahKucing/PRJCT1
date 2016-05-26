@@ -573,5 +573,5 @@ CodeSaya: dantalian
 GitHub: SetengahKucing
 Nama: Rizwan Yuniarto
 Website: -
-Pesan: Masih bingung make git nya... hahaha...
+Pesan: Masih bingung make git nya... hahaha....
 
